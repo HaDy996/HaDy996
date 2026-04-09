@@ -20,6 +20,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNoamowejVwOW01ZDFncjZvazJiNTFlbXF5dHFsOTFnMjByMzl5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="center">👩‍💻  Who I'am ?</h2>
 
 ###
@@ -68,6 +74,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HaDy996/HaDy996/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaDy996/HaDy996/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaDy996/HaDy996/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaDy996/HaDy996/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
